@@ -47,6 +47,9 @@ for i in range(iteration):
     plt.ylabel('y-axis')
     plt.axis('equal')
     plt.show()
-    plt.pause(1)
+    plt.pause(1.2)
+
+
+
 
 
